@@ -33,7 +33,7 @@ Follow up: Can you sort the linked list in O(n logn) time and O(1) memory (i.e. 
 
 ## Ejercicio.
 
-[sitio web](https://leetcode.com/problems/sort-list/) Proyecto Blue Py- Ide
+[Ejercicio](https://leetcode.com/problems/sort-list/) 
 
 
 
