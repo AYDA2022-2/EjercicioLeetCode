@@ -37,8 +37,8 @@ Follow up: Can you sort the linked list in O(n logn) time and O(1) memory (i.e. 
 
 
 ## Conclusiones.
-•	Puede resultar un algoritmo sencillo, si se sabe cómo utilizar la ordenación por mezcla. Todo lo que tenemos que hacer es dividir nuestra lista en dos partes, ordenar la primera mitad, luego ordenar la segunda mitad y finalmente fusionar estas dos partes.
-•	La complejidad temporal es O(n log n), porque es la complejidad clásica de la ordenación por fusión. 
+•	Puede resultar un algoritmo sencillo, si se sabe cómo utilizar la ordenación por mezcla. Todo lo que tenemos que hacer es dividir nuestra lista en dos partes, ordenar la primera mitad, luego ordenar la segunda mitad y finalmente fusionar estas dos partes.                                                                         
+•	La complejidad temporal es O(n log n), porque es la complejidad clásica de la ordenación por fusión.                                                                  
 •La complejidad espacial es O(log n), porque utilicé una recursión que puede ser log n de profundidad.
 
 
