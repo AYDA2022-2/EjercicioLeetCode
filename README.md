@@ -35,6 +35,8 @@ Follow up: Can you sort the linked list in O(n logn) time and O(1) memory (i.e. 
 
 [Ejercicio](https://leetcode.com/problems/sort-list/) 
 
+## Vídeo.
+[Vídeo](https://www.youtube.com/watch?v=g5yfYazaLdM) 
 
 ## Conclusiones.
 •	Puede resultar un algoritmo sencillo, si se sabe cómo utilizar la ordenación por mezcla. Todo lo que tenemos que hacer es dividir nuestra lista en dos partes, ordenar la primera mitad, luego ordenar la segunda mitad y finalmente fusionar estas dos partes.                                                                         
